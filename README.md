@@ -16,3 +16,15 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+=========
+// This pushes to the github repo
+
+git init
+git add *
+git commit -m "This is a redo of chapter 04"
+git remote add origin git@github.com:tonsilardrip/getting-mean_chp_04.git
+git push -u origin master 
+
+//This pushes to the github repo.
+# getting-mean_chp_03
